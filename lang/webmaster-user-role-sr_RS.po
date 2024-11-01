@@ -1,0 +1,791 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Client Dashboard Pro\n"
+"POT-Creation-Date: 2015-02-05 11:28-0800\n"
+"PO-Revision-Date: 2015-02-05 11:29-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+
+#: includes/module-acf.php:22 includes/module-acf.php:27
+msgid "Advanced Custom Fields"
+msgstr "Napredna prilagođena polja"
+
+#: includes/module-acf.php:28 includes/module-cf7.php:29
+#: includes/module-edd.php:32 includes/module-gravity-forms.php:34
+#: includes/module-gravity-forms.php:55 includes/module-gravity-forms.php:81
+#: includes/module-gravity-forms.php:106 includes/module-gravity-forms.php:125
+#: includes/module-gravity-forms.php:144 includes/module-gravity-forms.php:163
+#: includes/module-gravity-forms.php:182 includes/module-gravity-forms.php:201
+#: includes/module-gravity-forms.php:220 includes/module-gravity-forms.php:239
+#: includes/module-gravity-forms.php:258 includes/module-itexchange.php:32
+#: includes/module-itexchange.php:47 includes/module-itsec.php:28
+#: includes/module-plugins.php:28 includes/module-sgcachepress.php:28
+#: includes/module-themes.php:28 includes/module-themes.php:80
+#: includes/module-users.php:29 includes/module-wpai.php:28
+#: includes/module-yoast.php:30 includes/pro.php:327
+#: includes/themes/avian-theme-module.php:38
+#: includes/themes/cardinal-theme-module.php:39
+#: includes/themes/ken-theme-module.php:38
+#: includes/themes/total-theme-module.php:38
+msgid "Webmaster (Admin) users can"
+msgstr "Webmaster (Admin) korisnici mogu"
+
+#: includes/module-acf.php:31
+msgid "Manage Custom Fields"
+msgstr "Upravljaj prilagođenim poljima"
+
+#: includes/module-cf7.php:23 includes/module-cf7.php:28
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: includes/module-cf7.php:32
+msgid "Read contact forms"
+msgstr "Pročitaj obrasce za kontakt "
+
+#: includes/module-cf7.php:33
+msgid "Create new contact forms"
+msgstr "Kreiraj nove obrasce za kontakt"
+
+#: includes/module-cf7.php:34
+msgid "Edit contact forms"
+msgstr "Uredi obrasce za kontakt"
+
+#: includes/module-cf7.php:35
+msgid "Delete contact forms"
+msgstr "Obriši obrasce za kontakt"
+
+#: includes/module-edd.php:26 includes/module-edd.php:31
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: includes/module-edd.php:35
+msgid "Manage Products"
+msgstr "Upravljaj proizvodima"
+
+#: includes/module-edd.php:36
+msgid "Manage Customer Payments"
+msgstr "Upravljaj plaćanjem klijenata"
+
+#: includes/module-edd.php:37
+msgid "Manage Discounts"
+msgstr "Upravljaj popustima"
+
+#: includes/module-edd.php:38
+msgid "View Reports & Sales Data"
+msgstr "Vidi izveštaje i podatke o prodaji"
+
+#: includes/module-edd.php:39 includes/module-event-espresso.php:12
+msgid "Manage Settings"
+msgstr "Upravljaj podešavanjima"
+
+#: includes/module-event-espresso.php:13
+msgid "Events"
+msgstr "Događaji"
+
+#: includes/module-event-espresso.php:14
+msgid "Registrations"
+msgstr "Registracije"
+
+#: includes/module-event-espresso.php:15
+msgid "Transactions"
+msgstr "Transakcije"
+
+#: includes/module-event-espresso.php:16
+msgid "Messages"
+msgstr "Poruke"
+
+#: includes/module-event-espresso.php:18
+msgid "Registration Form"
+msgstr "Obrazac za registraciju"
+
+#: includes/module-event-espresso.php:19
+msgid "Venues"
+msgstr "Lokacije"
+
+#: includes/module-event-espresso.php:20
+msgid "General Settings"
+msgstr "Opšte postavke"
+
+#: includes/module-event-espresso.php:21
+msgid "Help & Support"
+msgstr "Pomoć i podrška"
+
+#: includes/module-event-espresso.php:22
+msgid "Payment Methods"
+msgstr "Načini plaćanja"
+
+#: includes/module-event-espresso.php:23
+msgid "Maintenance"
+msgstr "Održavanje"
+
+#: includes/module-event-espresso.php:24
+msgid "About"
+msgstr "O"
+
+#: includes/module-event-espresso.php:40
+msgid "Event Espresso"
+msgstr "Event Espresso"
+
+#: includes/module-event-espresso.php:45
+msgid "Event Espresso Capabilities"
+msgstr "Event Espresso funkcionalnosti"
+
+#: includes/module-event-espresso.php:46
+msgid "Webmaster (Admin) users can access Event Espresso menu"
+msgstr "Webmaster (Admin) korisnici mogu da pristupe Event Espresso meniju"
+
+#: includes/module-events-calendar.php:13
+msgid "Manage Events"
+msgstr "Upravljaj događajima"
+
+#: includes/module-events-calendar.php:14
+msgid "Delete Events"
+msgstr "Obriši događaje"
+
+#: includes/module-events-calendar.php:17
+msgid "Manage Venues"
+msgstr "Upravljaj lokacijama"
+
+#: includes/module-events-calendar.php:18
+msgid "Delete Venues"
+msgstr "Obriši lokacije"
+
+#: includes/module-events-calendar.php:21
+msgid "Manage Organizers"
+msgstr "Upravljaj organizatorima"
+
+#: includes/module-events-calendar.php:22
+msgid "Delete Organizers"
+msgstr "Obriši organizatore"
+
+#: includes/module-events-calendar.php:39
+msgid "Events Calendar"
+msgstr "Kalendar događaja"
+
+#: includes/module-events-calendar.php:44
+msgid "Event Capabilities"
+msgstr "Mogućnosti događaja"
+
+#: includes/module-events-calendar.php:45
+msgid "Webmaster users have the following access for Events"
+msgstr "Webmaster korisnici imaju sledeći pristup događajima"
+
+#: includes/module-events-calendar.php:54
+msgid "Venue Capabilities"
+msgstr "Mogućnosti lokacija"
+
+#: includes/module-events-calendar.php:55
+msgid "Webmaster users have the following access for Venues"
+msgstr "Webmaster korisnici imaju sledeći pristup lokacijama"
+
+#: includes/module-events-calendar.php:64
+msgid "Organizers Capabilities"
+msgstr "Mogućnosti organizatora"
+
+#: includes/module-events-calendar.php:65
+msgid "Webmaster users have the following access for Organizers"
+msgstr "Webmaster korisnici imaju sledeći pristup organizatorima"
+
+#: includes/module-gravity-forms.php:28
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: includes/module-gravity-forms.php:33
+msgid "Managing Forms"
+msgstr "Upravljanje obrascima"
+
+#: includes/module-gravity-forms.php:37
+msgid "List & Edit Forms"
+msgstr "Izlistaj i uredi obrasce"
+
+#: includes/module-gravity-forms.php:38
+msgid "Create & Duplicate Forms"
+msgstr "Kreiraj i dupliraj obrasce"
+
+#: includes/module-gravity-forms.php:39
+msgid "Delete Forms"
+msgstr "Obriši obrasce"
+
+#: includes/module-gravity-forms.php:40
+msgid "Preview Forms"
+msgstr "Pregledaj obrasce"
+
+#: includes/module-gravity-forms.php:54
+msgid "Managing Entries (Form Submissions/Data)"
+msgstr "Upravljanje unosima (Podnošenje obrazaca/Podaci)"
+
+#: includes/module-gravity-forms.php:58
+msgid "View Form Entries"
+msgstr "Vidi unose obrazaca"
+
+#: includes/module-gravity-forms.php:59
+msgid "View Internal Notes on Form Entries"
+msgstr "Vidi interne napomene o unosima obrazaca"
+
+#: includes/module-gravity-forms.php:60
+msgid "Edit Form Entries"
+msgstr "Uredi unose obrazaca"
+
+#: includes/module-gravity-forms.php:61
+msgid "Edit Internal Notes on Form Entries"
+msgstr "Uredi interne napomene o unosima obrazaca"
+
+#: includes/module-gravity-forms.php:62
+msgid "Delete Form Entries"
+msgstr "Obriši unose obrazaca"
+
+#: includes/module-gravity-forms.php:63
+msgid "Export Form Entries"
+msgstr "Izvezi unose obrazaca"
+
+#: includes/module-gravity-forms.php:80
+msgid "Advanced Features"
+msgstr "Napredne funkcije"
+
+#: includes/module-gravity-forms.php:84
+msgid "Edit Settings"
+msgstr "Uredi podešavanja "
+
+#: includes/module-gravity-forms.php:85
+msgid "Uninstall Gravity Forms"
+msgstr "Deinstaliraj Gravity Forms"
+
+#: includes/module-gravity-forms.php:86
+msgid "Show when updates are available"
+msgstr "Prikaži kad su ažuriranja raspoloživa"
+
+#: includes/module-gravity-forms.php:87
+msgid ""
+"Show Add-Ons Available/Installed (User also needs capability to install "
+"plugins)"
+msgstr ""
+"Prikaži raspoložive/instalirane dodatke (Korisniku je potrebna mogućnost za "
+"instaliranje plugin-ova) "
+
+#: includes/module-gravity-forms.php:105
+msgid "Authorize.Net Add-On"
+msgstr "Authorize.Net Add-On"
+
+#: includes/module-gravity-forms.php:109
+msgid "Manage Authorize.net Feeds"
+msgstr "Upravljaj Authorize.net Feed-om"
+
+#: includes/module-gravity-forms.php:111 includes/module-gravity-forms.php:130
+#: includes/module-gravity-forms.php:149 includes/module-gravity-forms.php:168
+#: includes/module-gravity-forms.php:187 includes/module-gravity-forms.php:206
+#: includes/module-gravity-forms.php:225 includes/module-gravity-forms.php:244
+#: includes/module-gravity-forms.php:263
+msgid ""
+"This controls access to the feeds (submenu under Forms). Access to the "
+"settings area for this add-on is controlled globally by the Edit Settings "
+"capability above."
+msgstr ""
+"Time se kontroliše pristup feed-u (podmeniju u okviru Obrazaca). Pristup "
+"oblasti podešavanja za ovaj dodatak globalno kontroliše funkcionalnost Uredi "
+"podešavanja gore. "
+
+#: includes/module-gravity-forms.php:124
+msgid "AWeber Add-On"
+msgstr "AWeber Add-On"
+
+#: includes/module-gravity-forms.php:128
+msgid "Manage AWeber Feeds"
+msgstr "Upravljaj AWeber Feed-om"
+
+#: includes/module-gravity-forms.php:143
+msgid "Campaign Monitor Add-On"
+msgstr "Campaign Monitor Add-On"
+
+#: includes/module-gravity-forms.php:147
+msgid "Manage Campaign Monitor Feeds"
+msgstr "Upravljaj Campaign Monitor Feed-om"
+
+#: includes/module-gravity-forms.php:162
+msgid "Coupons Add-On"
+msgstr "Coupons Add-On"
+
+#: includes/module-gravity-forms.php:166
+msgid "Manage Coupons Feeds"
+msgstr "Upravljaj Coupons Feed-om"
+
+#: includes/module-gravity-forms.php:181
+msgid "FreshBooks Add-On"
+msgstr "FreshBooks Add-On"
+
+#: includes/module-gravity-forms.php:185
+msgid "Manage FreshBooks Feeds"
+msgstr "Upravljaj FreshBooks Feed-om"
+
+#: includes/module-gravity-forms.php:200
+msgid "MailChimp Add-On"
+msgstr "MailChimp Add-On"
+
+#: includes/module-gravity-forms.php:204
+msgid "Manage MailChimp Feeds"
+msgstr "Upravljaj MailChimp Feed-om"
+
+#: includes/module-gravity-forms.php:219
+msgid "Twilio Add-On"
+msgstr "Twilio Add-On"
+
+#: includes/module-gravity-forms.php:223
+msgid "Manage Twilio Feeds"
+msgstr "Upravljaj Twilio Feed-om"
+
+#: includes/module-gravity-forms.php:238
+msgid "User Registration Add-On"
+msgstr "User Registration Add-On"
+
+#: includes/module-gravity-forms.php:242
+msgid "Manage User Registration Feeds"
+msgstr "Upravljaj User Registration Feed-om"
+
+#: includes/module-gravity-forms.php:257
+msgid "Zapier Add-On"
+msgstr "Zapier Add-On"
+
+#: includes/module-gravity-forms.php:261
+msgid "Manage Zapier Feeds"
+msgstr "Upravljaj Zapier Feed-om"
+
+#: includes/module-itexchange.php:26
+msgid "Exchange"
+msgstr "Exchange"
+
+#: includes/module-itexchange.php:31
+msgid "Exchange - Admin Access"
+msgstr "Exchange - pristup administratora"
+
+#: includes/module-itexchange.php:35
+msgid ""
+"Manage Exchange (unchecking removes all access to Exchange (making other "
+"settings on this page irrelevant)"
+msgstr ""
+"Upravljaj Exchange (poništavanje štikliranja uklanja sve pristupe Exchange "
+"čime se poništavaju sva druga podešavanja ove stranice)"
+
+#: includes/module-itexchange.php:46
+msgid "Exchange - Restricted Access"
+msgstr "Exchange - Ograničen pristup"
+
+#: includes/module-itexchange.php:50
+msgid ""
+"Manage/View purchases & payments (this also shows/hides the dashboard widget "
+"displaying recent sales)"
+msgstr ""
+"Upravljaj/Vidi nabavke i plaćanje (ova opcija takođe prikazuje/skriva widget "
+"kontrolne table koja prikazuje skorije prodaje)"
+
+#: includes/module-itexchange.php:51
+msgid "Manage settings"
+msgstr "Upravljaj podešavanjima"
+
+#: includes/module-itexchange.php:52
+msgid "Manage add-ons"
+msgstr "Upravljaj dodacima"
+
+#: includes/module-itsec.php:22 includes/module-itsec.php:27
+msgid "iThemes Security"
+msgstr "iThemes Security"
+
+#: includes/module-itsec.php:31
+msgid "Manage security settings"
+msgstr "Upravljaj bezbednosnim podešavanjima"
+
+#: includes/module-plugins.php:22
+msgid "Plugins"
+msgstr "Plugin-ovi"
+
+#: includes/module-plugins.php:27
+msgid "Plugin Capabilities"
+msgstr "Mogućnosti plugin-a"
+
+#: includes/module-plugins.php:31
+msgid "Install Plugins"
+msgstr "Instaliraj plugin-ove"
+
+#: includes/module-plugins.php:32 includes/module-plugins.php:51
+msgid "Activate/Deactivate Plugins"
+msgstr "Aktiviraj/Deaktiviraj plugin-ove"
+
+#: includes/module-plugins.php:33
+msgid "Update Plugins"
+msgstr "Ažuriraj plugin-ove"
+
+#: includes/module-plugins.php:34
+msgid "Edit Plugins (Plugins > Editor menu item)"
+msgstr "Uredi plugin-ove (Plugin-ovi > Stavka uređivača menija) "
+
+#: includes/module-plugins.php:35
+msgid "Delete Plugins"
+msgstr "Obriši plugin-ove"
+
+#: includes/module-plugins.php:55 includes/module-themes.php:65
+#: includes/module-users.php:59
+msgid "Notes for Multisite:"
+msgstr "Napomena za Multisite:"
+
+#: includes/module-plugins.php:56 includes/module-themes.php:66
+msgid ""
+"WordPress core code only allows designated \"Super Admins\" to manage "
+"plugins for the entire network"
+msgstr ""
+"WordPress core code dozvoljava samo određenim \"Super Administratorima\" da "
+"upravljaju plugin-ovima za celu mrežu."
+
+#: includes/module-plugins.php:57 includes/module-themes.php:67
+msgid ""
+"Blog/Site admins can only activate/deactivate plugins installed by the "
+"network administrator"
+msgstr ""
+"Administratori bloga/site-a mogu samo da aktiviraju/deaktiviraju plugin-ove "
+"koje je instalirao administrator mreže"
+
+#: includes/module-sgcachepress.php:22
+msgid "SiteGround Caching"
+msgstr "SiteGround Caching"
+
+#: includes/module-sgcachepress.php:27
+msgid "SiteGround Caching Capabilities"
+msgstr "SiteGround Caching funkcionalnosti"
+
+#: includes/module-sgcachepress.php:31
+msgid "Use SiteGround SuperCacher Settings Menu"
+msgstr "Koristite SiteGround SuperCacher podešavanje menija"
+
+#: includes/module-themes.php:22
+msgid "Themes"
+msgstr "Teme"
+
+#: includes/module-themes.php:27
+msgid "Theme Capabilities"
+msgstr "Mogućnosti teme"
+
+#: includes/module-themes.php:31
+msgid "Manage Theme, Widgets, Menus, and Customizer"
+msgstr "Upravljaj temom, widget-ima, menijem i kustomizatorom"
+
+#: includes/module-themes.php:32
+msgid "Install Themes"
+msgstr "Instaliraj teme"
+
+#: includes/module-themes.php:33
+msgid "Update Themes"
+msgstr "Ažuriraj teme"
+
+#: includes/module-themes.php:34
+msgid "Switch Active Theme"
+msgstr "Promeni aktivnu temu"
+
+#: includes/module-themes.php:35
+msgid "Edit Themes"
+msgstr "Uredi teme"
+
+#: includes/module-themes.php:36
+msgid "Delete Themes"
+msgstr "Obriši teme"
+
+#: includes/module-themes.php:79
+msgid "3rd Party Theme Compatibility"
+msgstr "Kompatibilnost teme treće strane"
+
+#: includes/module-themes.php:83
+msgid "Access Theme Options panel (see notes)"
+msgstr "Pristupite panelu sa opcijama teme (vidite napomene)"
+
+#: includes/module-themes.php:86
+msgid "Note: Your theme is not specifically supported, but it can be!"
+msgstr "Napomena: Vaša tema nije posebno podržana, ali može da bude!"
+
+#: includes/module-themes.php:87
+msgid ""
+"Many themes create custom panels for Theme Options. Unfortunately each theme "
+"is different and requires a custom integration."
+msgstr ""
+"Mnoge teme kreiraju prilagođene panele za opcije teme. Nažalost, svaka tema "
+"je drugačija i zahteva prilagođenu integraciju."
+
+#: includes/module-themes.php:88
+msgid ""
+"If you'd like to see your theme supported, please <strong>email us at <a "
+"href=\"mailto:team@nsquared.io\">team@nsquared.io</a></"
+"strong> and we'll be happy to add support for it!"
+msgstr ""
+"Ako biste želeli da ova teme bude podržana, pošaljite nam  <strong>mail na "
+"<a href=\"mailto:team@nsquared.io\">team@nsquared.io</a></"
+"strong> i biće nam drago da dodamo podršku za nju!"
+
+#: includes/module-themes.php:89
+msgid ""
+"On unsupported themes, this checkbox will try to control access to the Theme "
+"Options panel, but in most cases you will need to submit a support request "
+"to add support for your theme."
+msgstr ""
+"Kod tema koje nisu podržane, ovo polje za štikliranje pokušaće da kontroliše "
+"pristup panelu za opcije tema, ali u većini slučajeva moraćete da podnesete "
+"zahtev za podršku kako biste dodali podršku za vašu temu."
+
+#: includes/module-tools.php:23
+msgid "Tools & Settings"
+msgstr "Alati i podešavanja"
+
+#: includes/module-tools.php:28
+msgid "Visible in Menu"
+msgstr "Vidljivi u meniju"
+
+#: includes/module-tools.php:29
+msgid "Webmaster (Admin) users can view"
+msgstr "Webmaster (Admin) korisnici mogu da vide"
+
+#: includes/module-tools.php:32
+msgid "Tools Menu"
+msgstr "Meni sa alatima"
+
+#: includes/module-tools.php:33
+msgid "Settings Menu"
+msgstr "Podešavanja menija"
+
+#: includes/module-users.php:23
+msgid "Users"
+msgstr "Korisnici"
+
+#: includes/module-users.php:28
+msgid "User Capabilities"
+msgstr "Mogućnosti korisnika"
+
+#: includes/module-users.php:32
+msgid "List Users"
+msgstr "Lista korisnika"
+
+#: includes/module-users.php:33
+msgid "Create Users"
+msgstr "Kreiraj korisnike"
+
+#: includes/module-users.php:34
+msgid "Edit Users"
+msgstr "Uredi korisnike"
+
+#: includes/module-users.php:35
+msgid "Delete Users"
+msgstr "Obriši korisnike"
+
+#: includes/module-users.php:53
+msgid "View list of users on their site"
+msgstr "Pregledaj listu korisnika na njihovom site-u"
+
+#: includes/module-users.php:54
+msgid "Add existing users (must be existing users on the network)"
+msgstr "Dodaj postojeće korisnike (postojeći korisnici moraju biti na mreži)"
+
+#: includes/module-users.php:55
+msgid "Remove users from their site"
+msgstr "Ukloni korisnike sa njihovog site-a"
+
+#: includes/module-users.php:60
+msgid ""
+"WordPress core code only allows designated \"Super Admins\" to Create new "
+"Users, Edit Users, and Delete Users from the Network."
+msgstr ""
+"WordPress core code omogućava samo određenim \"Super administratorima\" da "
+"kreiraju nove korisnike, da uređuju korisnike i da brišu korisnike sa mreže."
+
+#: includes/module-users.php:61
+msgid ""
+"Blog/Site administrators are only able to add or remove existing users for "
+"their site."
+msgstr ""
+"Administratori bloga/site-a mogu samo da dodaju ili da uklanjaju postojeće "
+"korisnike za svoj site."
+
+#: includes/module-users.php:62
+msgid ""
+"Due to these core restrictions, the Webmaster role won't be able to create "
+"brand new users for the network. This is actually not possible for a full "
+"Administrator-level user either, unless you add them as a Super Admin with "
+"the ability to administer the entire Network."
+msgstr ""
+"Zbog ovih restrikcija jezgra, uloga webmaster-a neće moći da kreira nove "
+"korisnike za mrežu. Zapravo, to ne mogu ni korisnici sa punim "
+"administratorskim ovlašćenjima, osim ako ih ne dodate kao super-"
+"administratore sa mogućnošću upravljanja celom mrežom."
+
+#: includes/module-users.php:63
+msgid "Learn More about WordPress Multisite"
+msgstr "Naučite više o WordPress Multisite-u"
+
+#: includes/module-wpai.php:22
+msgid "WP All Import"
+msgstr "WP All Import"
+
+#: includes/module-wpai.php:27
+msgid "WP All Import Capabilities"
+msgstr "WP All Import mogućnosti"
+
+#: includes/module-wpai.php:31
+msgid "Use WP All Import Settings Menu"
+msgstr "Koristi WP All Import podešavanja menija "
+
+#: includes/module-yoast.php:24
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: includes/module-yoast.php:29
+msgid "Yoast SEO Capabilities"
+msgstr "Yoast SEO mogućnosti"
+
+#: includes/module-yoast.php:33
+msgid "Edit SEO values on individual posts/pages"
+msgstr "Uredi SEO vrednosti na pojedinačnim postovima/stranicama"
+
+#: includes/module-yoast.php:34
+msgid "Use Yoast Settings Menu"
+msgstr "Koristi Yoast podešavanje menija"
+
+#: includes/pro.php:23
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: includes/pro.php:185
+msgid "Section via hook"
+msgstr "Deo putem udice"
+
+#: includes/pro.php:186
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+"Ovo je deo kreiran dodavanjem filtera nizu delova. Mogu ga koristiti "
+"podređene teme za dodavanje/uklanjanje delova iz opcija."
+
+#: includes/pro.php:264
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Prilagodi &#8220;%s&#8221;"
+
+#: includes/pro.php:271 includes/pro.php:274
+msgid "Current theme preview"
+msgstr "Pregled trenutne teme"
+
+#: includes/pro.php:281
+#, php-format
+msgid "By %s"
+msgstr "Od %s"
+
+#: includes/pro.php:282
+#, php-format
+msgid "Version %s"
+msgstr "Verzija %s"
+
+#: includes/pro.php:283
+msgid "Tags"
+msgstr "Oznake"
+
+#: includes/pro.php:288
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+"Ova <a href=\"%1$s\">podređena tema</a> zahteva svoju nadređenu temu, %2$s."
+
+#: includes/pro.php:321
+msgid "TablePress"
+msgstr "TablePress"
+
+#: includes/pro.php:326
+msgid "TablePress Capabilities"
+msgstr "TablePress funkcionalnosti"
+
+#: includes/pro.php:330
+msgid "List Tables"
+msgstr "Izlistaj tabele"
+
+#: includes/pro.php:331
+msgid "Add New Tables"
+msgstr "Dodaj nove tabele"
+
+#: includes/pro.php:332
+msgid "Edit Existing Tables"
+msgstr "Uredi postojeće tabele"
+
+#: includes/pro.php:333
+msgid "Import Tables"
+msgstr "Uvezi tabele"
+
+#: includes/pro.php:334
+msgid "Export Tables"
+msgstr "Izvezi tabele"
+
+#: includes/pro.php:335
+msgid "Access TablePress About Screen"
+msgstr "Pristupite ekranu o TablePress-u"
+
+#: includes/pro.php:336
+msgid "Access TablePress Options Screen"
+msgstr "Pristupite ekranu sa TablePress opcijama"
+
+#: includes/pro.php:394
+msgid "Simple Client Dashboard Settings"
+msgstr "Podešavanja Simple Client Dashboard"
+
+#: includes/pro.php:465
+msgid "Visit us on GitHub"
+msgstr "Posetite nas na GitHub-u"
+
+#: includes/pro.php:471
+msgid "Follow us on Twitter"
+msgstr "Pratite nas na Twitter-u"
+
+#: includes/pro.php:476
+msgid "Customize the capabilities for your Simple Client Dashboard"
+msgstr "Prilagodite funkcionalnosti za svoju Simple Client Dashboard"
+
+#: includes/pro.php:479
+msgid "Plugin Documentation"
+msgstr "Dokumentacija o plugin-u"
+
+#: includes/themes/avian-theme-module.php:37
+msgid "Avian Theme Compatibility"
+msgstr "Kompatibilnost Avian teme"
+
+#: includes/themes/avian-theme-module.php:41
+#: includes/themes/cardinal-theme-module.php:42
+#: includes/themes/ken-theme-module.php:41
+#: includes/themes/total-theme-module.php:41
+msgid "Access Theme Options panel"
+msgstr "Pristupi panelu za opcije tema"
+
+#: includes/themes/cardinal-theme-module.php:38
+msgid "Cardinal Theme Compatibility"
+msgstr "Kompatibilnost kardinalne teme"
+
+#: includes/themes/ken-theme-module.php:37
+msgid "Ken Theme Compatibility"
+msgstr "Kompatibilnost Ken teme"
+
+#: includes/themes/total-theme-module.php:37
+msgid "Total Theme Compatibility"
+msgstr "Kompatibilnost Total teme"
+
+#: includes/updater.php:37
+msgid "Licensing & Updates"
+msgstr "Licenciranje i ažuriranje"
+
+#: includes/updater.php:42
+msgid "License Key"
+msgstr "Ključ licence"
+
+#: includes/updater.php:43
+msgid "Enables access to updates"
+msgstr "Omogućava pristup ažuriranjima"

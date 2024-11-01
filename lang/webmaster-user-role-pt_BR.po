@@ -1,0 +1,754 @@
+#
+# Translators:
+# JoaoPaulo <jpaportugal@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Client Dashboard Pro\n"
+"POT-Creation-Date: 2015-06-06 12:54-0500\n"
+"PO-Revision-Date: 2015-06-12 15:16-0500\n"
+"Last-Translator: JoaoPaulo <jpaportugal@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/webmaster-user-role-pro/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+
+#: includes/module-acf.php:22 includes/module-acf.php:27
+msgid "Advanced Custom Fields"
+msgstr "Advanced Custom Fields"
+
+#: includes/module-acf.php:28 includes/module-cf7.php:29 includes/module-edd.php:32 includes/module-gravity-forms.php:34 includes/module-gravity-forms.php:55 includes/module-gravity-forms.php:81 includes/module-gravity-forms.php:106 includes/module-gravity-forms.php:125
+#: includes/module-gravity-forms.php:144 includes/module-gravity-forms.php:163 includes/module-gravity-forms.php:182 includes/module-gravity-forms.php:201 includes/module-gravity-forms.php:220 includes/module-gravity-forms.php:239 includes/module-gravity-forms.php:258
+#: includes/module-itexchange.php:32 includes/module-itexchange.php:47 includes/module-itsec.php:28 includes/module-plugins.php:28 includes/module-sgcachepress.php:28 includes/module-themes.php:28 includes/module-themes.php:80 includes/module-users.php:29 includes/module-woocommerce.php:30
+#: includes/module-wpai.php:28 includes/module-yoast.php:30 includes/pro.php:328 includes/themes/avada-theme-module.php:39 includes/themes/avian-theme-module.php:38 includes/themes/cardinal-theme-module.php:39 includes/themes/divi-theme-module.php:41 includes/themes/ken-theme-module.php:38
+#: includes/themes/total-theme-module.php:38
+msgid "Webmaster (Admin) users can"
+msgstr "Utilizadores Webmasters podem"
+
+#: includes/module-acf.php:31
+msgid "Manage Custom Fields"
+msgstr "Gerenciar Campos Personalizados"
+
+#: includes/module-cf7.php:23 includes/module-cf7.php:28
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: includes/module-cf7.php:32
+msgid "Read contact forms"
+msgstr "Ler formulários de contacto"
+
+#: includes/module-cf7.php:33
+msgid "Create new contact forms"
+msgstr "Criar novos formulários de contacto"
+
+#: includes/module-cf7.php:34
+msgid "Edit contact forms"
+msgstr "Editar formulários de contacto"
+
+#: includes/module-cf7.php:35
+msgid "Delete contact forms"
+msgstr "Apagar formulários de contacto"
+
+#: includes/module-edd.php:26 includes/module-edd.php:31
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads "
+
+#: includes/module-edd.php:35
+msgid "Manage Products"
+msgstr "Gerenciar Produtos"
+
+#: includes/module-edd.php:36
+msgid "Manage Customer Payments"
+msgstr "Gerenciar Pagamentos dos Clientes"
+
+#: includes/module-edd.php:37
+msgid "Manage Discounts"
+msgstr "Gerenciar Descontos"
+
+#: includes/module-edd.php:38
+msgid "View Reports & Sales Data"
+msgstr "Exibir Relatórios e Dados de Vendas"
+
+#: includes/module-edd.php:39 includes/module-event-espresso-4-3.php:12
+msgid "Manage Settings"
+msgstr "Gerir opções"
+
+#: includes/module-event-espresso-4-3.php:13 includes/module-event-espresso.php:13
+msgid "Events"
+msgstr "Eventos"
+
+#: includes/module-event-espresso-4-3.php:14 includes/module-event-espresso.php:14
+msgid "Registrations"
+msgstr "Inscrições"
+
+#: includes/module-event-espresso-4-3.php:15 includes/module-event-espresso.php:15
+msgid "Transactions"
+msgstr "Transações"
+
+#: includes/module-event-espresso-4-3.php:16 includes/module-event-espresso.php:16
+msgid "Messages"
+msgstr "Mensagens"
+
+#: includes/module-event-espresso-4-3.php:18 includes/module-event-espresso.php:18
+msgid "Registration Form"
+msgstr "Formulário de inscrição"
+
+#: includes/module-event-espresso-4-3.php:19 includes/module-event-espresso.php:19
+msgid "Venues"
+msgstr "Locais"
+
+#: includes/module-event-espresso-4-3.php:20
+msgid "General Settings"
+msgstr "Opções gerais"
+
+#: includes/module-event-espresso-4-3.php:21
+msgid "Help & Support"
+msgstr "Ajuda & Suporte"
+
+#: includes/module-event-espresso-4-3.php:22 includes/module-event-espresso.php:20
+msgid "Payment Methods"
+msgstr "Métodos de pagamento"
+
+#: includes/module-event-espresso-4-3.php:23
+msgid "Maintenance"
+msgstr "Manutenção"
+
+#: includes/module-event-espresso-4-3.php:24
+msgid "About"
+msgstr "Sobre"
+
+#: includes/module-event-espresso-4-3.php:48 includes/module-event-espresso.php:46
+msgid "Event Espresso"
+msgstr "Event Espresso"
+
+#: includes/module-event-espresso-4-3.php:53 includes/module-event-espresso.php:51
+msgid "Event Espresso Capabilities"
+msgstr "Capacidades Event Espresso"
+
+#: includes/module-event-espresso-4-3.php:54 includes/module-event-espresso.php:52
+msgid "Webmaster (Admin) users can access Event Espresso menu"
+msgstr "Utilizadores Webmaster podem aceder ao menu Event Espresso"
+
+#: includes/module-events-calendar.php:13
+msgid "Manage Events"
+msgstr "Gerir eventos"
+
+#: includes/module-events-calendar.php:14
+msgid "Delete Events"
+msgstr "Apagar eventos"
+
+#: includes/module-events-calendar.php:17
+msgid "Manage Venues"
+msgstr "Gerir locais"
+
+#: includes/module-events-calendar.php:18
+msgid "Delete Venues"
+msgstr "Apagar locais"
+
+#: includes/module-events-calendar.php:21
+msgid "Manage Organizers"
+msgstr "Gerir organizadores"
+
+#: includes/module-events-calendar.php:22
+msgid "Delete Organizers"
+msgstr "Apagar organizadores"
+
+#: includes/module-events-calendar.php:39
+msgid "Events Calendar"
+msgstr "Events Calendar"
+
+#: includes/module-events-calendar.php:44
+msgid "Event Capabilities"
+msgstr "Capacidades do evento"
+
+#: includes/module-events-calendar.php:45
+msgid "Webmaster users have the following access for Events"
+msgstr "Utilizadores Webmaster têm os seguintes direitos para eventos"
+
+#: includes/module-events-calendar.php:54
+msgid "Venue Capabilities"
+msgstr "Capacidades de locais"
+
+#: includes/module-events-calendar.php:55
+msgid "Webmaster users have the following access for Venues"
+msgstr "Utilizadores Webmaster têm o seguinte acesso a locais"
+
+#: includes/module-events-calendar.php:64
+msgid "Organizers Capabilities"
+msgstr "Capacidades de organizador"
+
+#: includes/module-events-calendar.php:65
+msgid "Webmaster users have the following access for Organizers"
+msgstr "Utilizadores Webmaster têm o seguinte acesso a organizadores"
+
+#: includes/module-gravity-forms.php:28
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: includes/module-gravity-forms.php:33
+msgid "Managing Forms"
+msgstr "Gerir formulários"
+
+#: includes/module-gravity-forms.php:37
+msgid "List & Edit Forms"
+msgstr "Listar & editar formulários"
+
+#: includes/module-gravity-forms.php:38
+msgid "Create & Duplicate Forms"
+msgstr "Criar & duplicar formulários"
+
+#: includes/module-gravity-forms.php:39
+msgid "Delete Forms"
+msgstr "Apagar formulários"
+
+#: includes/module-gravity-forms.php:40
+msgid "Preview Forms"
+msgstr "Prever formulários"
+
+#: includes/module-gravity-forms.php:54
+msgid "Managing Entries (Form Submissions/Data)"
+msgstr "Gerir inscrições (submissões/dados formulário)"
+
+#: includes/module-gravity-forms.php:58
+msgid "View Form Entries"
+msgstr "Ver inscrições de formulário"
+
+#: includes/module-gravity-forms.php:59
+msgid "View Internal Notes on Form Entries"
+msgstr "Ver notas internas ou inscrições de formulário"
+
+#: includes/module-gravity-forms.php:60
+msgid "Edit Form Entries"
+msgstr "Editar inscrições de formulário"
+
+#: includes/module-gravity-forms.php:61
+msgid "Edit Internal Notes on Form Entries"
+msgstr "Editar notas internas ou inscrições de formulário"
+
+#: includes/module-gravity-forms.php:62
+msgid "Delete Form Entries"
+msgstr "Apagar inscrições de formulário"
+
+#: includes/module-gravity-forms.php:63
+msgid "Export Form Entries"
+msgstr "Exportar inscrições de formulário"
+
+#: includes/module-gravity-forms.php:80
+msgid "Advanced Features"
+msgstr "Recursos avançados"
+
+#: includes/module-gravity-forms.php:84
+msgid "Edit Settings"
+msgstr "Editar opções"
+
+#: includes/module-gravity-forms.php:85
+msgid "Uninstall Gravity Forms"
+msgstr "Desinstalar Gravity Forms"
+
+#: includes/module-gravity-forms.php:86
+msgid "Show when updates are available"
+msgstr "Mostrar quando atualizações estiverem disponíveis"
+
+#: includes/module-gravity-forms.php:87
+msgid "Show Add-Ons Available/Installed (User also needs capability to install plugins)"
+msgstr "Mostrar add-ons disponíveis/instalados (utilizador necessita direito de instalar plugins)"
+
+#: includes/module-gravity-forms.php:105
+msgid "Authorize.Net Add-On"
+msgstr "Add-on Authorize.Net"
+
+#: includes/module-gravity-forms.php:109
+msgid "Manage Authorize.net Feeds"
+msgstr "Gerir Authorize.Net"
+
+#: includes/module-gravity-forms.php:111 includes/module-gravity-forms.php:130 includes/module-gravity-forms.php:149 includes/module-gravity-forms.php:168 includes/module-gravity-forms.php:187 includes/module-gravity-forms.php:206 includes/module-gravity-forms.php:225
+#: includes/module-gravity-forms.php:244 includes/module-gravity-forms.php:263
+msgid "This controls access to the feeds (submenu under Forms). Access to the settings area for this add-on is controlled globally by the Edit Settings capability above."
+msgstr "Isto controla acesso às feeds (submenu por baixo de Formulários). O acesso às opções para este add-on é controlado globalmente pela capacidade de Editar opções acima."
+
+#: includes/module-gravity-forms.php:124
+msgid "AWeber Add-On"
+msgstr "Add-on AWeber"
+
+#: includes/module-gravity-forms.php:128
+msgid "Manage AWeber Feeds"
+msgstr "Gerir feeds AWeber"
+
+#: includes/module-gravity-forms.php:143
+msgid "Campaign Monitor Add-On"
+msgstr "Add-on Campaign Monitor"
+
+#: includes/module-gravity-forms.php:147
+msgid "Manage Campaign Monitor Feeds"
+msgstr "Gerir feeds Campaign Monitor"
+
+#: includes/module-gravity-forms.php:162
+msgid "Coupons Add-On"
+msgstr "Add-on Coupons"
+
+#: includes/module-gravity-forms.php:166
+msgid "Manage Coupons Feeds"
+msgstr "Gerir feeds Coupons"
+
+#: includes/module-gravity-forms.php:181
+msgid "FreshBooks Add-On"
+msgstr "Add-on FreshBooks"
+
+#: includes/module-gravity-forms.php:185
+msgid "Manage FreshBooks Feeds"
+msgstr "Gerir feeds FreshBooks"
+
+#: includes/module-gravity-forms.php:200
+msgid "MailChimp Add-On"
+msgstr "Add-on MailChimp"
+
+#: includes/module-gravity-forms.php:204
+msgid "Manage MailChimp Feeds"
+msgstr "Gerir feeds MailChimp"
+
+#: includes/module-gravity-forms.php:219
+msgid "Twilio Add-On"
+msgstr "Add-on Twilio"
+
+#: includes/module-gravity-forms.php:223
+msgid "Manage Twilio Feeds"
+msgstr "Gerir feeds Twilio"
+
+#: includes/module-gravity-forms.php:238
+msgid "User Registration Add-On"
+msgstr "Add-on User Registration"
+
+#: includes/module-gravity-forms.php:242
+msgid "Manage User Registration Feeds"
+msgstr "Gerir feeds User Registration"
+
+#: includes/module-gravity-forms.php:257
+msgid "Zapier Add-On"
+msgstr "Add-on Zapier"
+
+#: includes/module-gravity-forms.php:261
+msgid "Manage Zapier Feeds"
+msgstr "Gerir feeds Zapier"
+
+#: includes/module-itexchange.php:26
+msgid "Exchange"
+msgstr "Exchange"
+
+#: includes/module-itexchange.php:31
+msgid "Exchange - Admin Access"
+msgstr "Exchange - Acesso Administrador"
+
+#: includes/module-itexchange.php:35
+msgid "Manage Exchange (unchecking removes all access to Exchange (making other settings on this page irrelevant)"
+msgstr "Gerenciar Exchange (desmarcando remove todo o acesso ao Exchange (tornando outras configurações nesta página irrelevante)"
+
+#: includes/module-itexchange.php:46
+msgid "Exchange - Restricted Access"
+msgstr "Exchange - Acesso Restrito"
+
+#: includes/module-itexchange.php:50
+msgid "Manage/View purchases & payments (this also shows/hides the dashboard widget displaying recent sales)"
+msgstr "Gerenciar/Ver compras & pagamentos (isso também mostra/esconde o widget da dashboard exibindo vendas recentes)"
+
+#: includes/module-itexchange.php:51
+msgid "Manage settings"
+msgstr "Gerenciar definições"
+
+#: includes/module-itexchange.php:52
+msgid "Manage add-ons"
+msgstr "Gerenciar add-ons"
+
+#: includes/module-itsec.php:22 includes/module-itsec.php:27
+msgid "iThemes Security"
+msgstr "Segurança iThemes"
+
+#: includes/module-itsec.php:31
+msgid "Manage security settings"
+msgstr "Gerir opções de segurança"
+
+#: includes/module-plugins.php:22
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/module-plugins.php:27
+msgid "Plugin Capabilities"
+msgstr "Capacidades de plugins"
+
+#: includes/module-plugins.php:31
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: includes/module-plugins.php:32 includes/module-plugins.php:51
+msgid "Activate/Deactivate Plugins"
+msgstr "Ativar/desativar plugins"
+
+#: includes/module-plugins.php:33
+msgid "Update Plugins"
+msgstr "Atualizar plugins"
+
+#: includes/module-plugins.php:34
+msgid "Edit Plugins (Plugins > Editor menu item)"
+msgstr "Editar plugins (Plugins > Editor menu item)"
+
+#: includes/module-plugins.php:35
+msgid "Delete Plugins"
+msgstr "Apagar plugins"
+
+#: includes/module-plugins.php:55 includes/module-themes.php:65 includes/module-users.php:59
+msgid "Notes for Multisite:"
+msgstr "Notas para Multisite:"
+
+#: includes/module-plugins.php:56 includes/module-themes.php:66
+msgid "WordPress core code only allows designated \"Super Admins\" to manage plugins for the entire network"
+msgstr "O código core Wordpress apenas permite  \"Super Admins\" atribuídos para gerir plugins para toda a rede."
+
+#: includes/module-plugins.php:57 includes/module-themes.php:67
+msgid "Blog/Site admins can only activate/deactivate plugins installed by the network administrator"
+msgstr "Administradores Blog/Site apenas podem ativar/desativar plugins instalados pelo administrador da rede."
+
+#: includes/module-sgcachepress.php:22
+msgid "SiteGround Caching"
+msgstr "Caching SiteGround"
+
+#: includes/module-sgcachepress.php:27
+msgid "SiteGround Caching Capabilities"
+msgstr "Capacidades Caching de SiteGround"
+
+#: includes/module-sgcachepress.php:31
+msgid "Use SiteGround SuperCacher Settings Menu"
+msgstr "Use o Menu Configurações SiteGround SuperCacher."
+
+#: includes/module-themes.php:22
+msgid "Themes"
+msgstr "Temas"
+
+#: includes/module-themes.php:27
+msgid "Theme Capabilities"
+msgstr "Capacidades do tema"
+
+#: includes/module-themes.php:31
+msgid "Manage Theme, Widgets, Menus, and Customizer"
+msgstr "Gerir tema, widgets, menus, e personalizador"
+
+#: includes/module-themes.php:32
+msgid "Install Themes"
+msgstr "Instalar temas"
+
+#: includes/module-themes.php:33
+msgid "Update Themes"
+msgstr "Atualizar temas"
+
+#: includes/module-themes.php:34
+msgid "Switch Active Theme"
+msgstr "Mudar tema ativo"
+
+#: includes/module-themes.php:35
+msgid "Edit Themes"
+msgstr "Editar temas"
+
+#: includes/module-themes.php:36
+msgid "Delete Themes"
+msgstr "Apagar temas"
+
+#: includes/module-themes.php:79
+msgid "3rd Party Theme Compatibility"
+msgstr "Compatibilidade de tema com terceiros"
+
+#: includes/module-themes.php:83
+msgid "Access Theme Options panel (see notes)"
+msgstr "Opções de acesso ao tema (ver notas)"
+
+#: includes/module-themes.php:86
+msgid "Note: Your theme is not specifically supported, but it can be!"
+msgstr "Note: o seu tema não é especificamente suportado, mas poderá ser!"
+
+#: includes/module-themes.php:87
+msgid "Many themes create custom panels for Theme Options. Unfortunately each theme is different and requires a custom integration."
+msgstr "Muitos temas criam painéis personalizados para opções do tema. Infelizmente cada tema é diferente e requer uma integração personalizada."
+
+#: includes/module-themes.php:88
+msgid "If you'd like to see your theme supported, please <strong>email us at <a href=\"mailto:team@nsquared.io\">team@nsquared.io</a></strong> and we'll be happy to add support for it!"
+msgstr "Se você gostaria de ver o seu tema suportado, por favor <strong> envie-nos e-mail para <a href=\"mailto:team@nsquared.io\"> team@nsquared.io </a> </ strong> e vamos estar feliz para adicionar suporte para ele!"
+
+#: includes/module-themes.php:89
+msgid "On unsupported themes, this checkbox will try to control access to the Theme Options panel, but in most cases you will need to submit a support request to add support for your theme."
+msgstr "Em temas não suportados, esta opção irá tentar controlar o acesso ao painel de Opções de Tema, mas na maioria dos casos, você terá de apresentar um pedido de apoio para adicionar suporte para o seu tema."
+
+#: includes/module-tools.php:23
+msgid "Tools & Settings"
+msgstr "Ferramentas & opções"
+
+#: includes/module-tools.php:28
+msgid "Visible in Menu"
+msgstr "Visível no menu"
+
+#: includes/module-tools.php:29
+msgid "Webmaster (Admin) users can view"
+msgstr "Utilizadores Webmaster podem ver"
+
+#: includes/module-tools.php:32
+msgid "Tools Menu"
+msgstr "Menu de ferramentas"
+
+#: includes/module-tools.php:33
+msgid "Settings Menu"
+msgstr "Menu de opções"
+
+#: includes/module-users.php:23
+msgid "Users"
+msgstr "Utilizadores"
+
+#: includes/module-users.php:28
+msgid "User Capabilities"
+msgstr "Capacidades de utilizadores"
+
+#: includes/module-users.php:32
+msgid "List Users"
+msgstr "Listar utilizadores"
+
+#: includes/module-users.php:33
+msgid "Create Users"
+msgstr "Criar utilizadores"
+
+#: includes/module-users.php:34
+msgid "Edit Users"
+msgstr "Editar utilizadores"
+
+#: includes/module-users.php:35
+msgid "Delete Users"
+msgstr "Apagar utlizadores"
+
+#: includes/module-users.php:53
+msgid "View list of users on their site"
+msgstr "Ver lista de utilizadores no site deles"
+
+#: includes/module-users.php:54
+msgid "Add existing users (must be existing users on the network)"
+msgstr "Adicionar utilizadores existentes (devem ser utilizadores existentes na rede)"
+
+#: includes/module-users.php:55
+msgid "Remove users from their site"
+msgstr "Remover utilizadores do site deles"
+
+#: includes/module-users.php:60
+msgid "WordPress core code only allows designated \"Super Admins\" to Create new Users, Edit Users, and Delete Users from the Network."
+msgstr "O código core Wordpress apenas permite \"Super Admins\" atribuídos para criar novos utilizadores, editar utilizadores, e apagar utilizadores da rede."
+
+#: includes/module-users.php:61
+msgid "Blog/Site administrators are only able to add or remove existing users for their site."
+msgstr "Administradores Blog/Site apenas são capazes de adicionar ou remover utilizadores atuais para o site deles."
+
+#: includes/module-users.php:62
+msgid "Due to these core restrictions, the Webmaster role won't be able to create brand new users for the network. This is actually not possible for a full Administrator-level user either, unless you add them as a Super Admin with the ability to administer the entire Network."
+msgstr "Devido a estas restrições base, o papel de Webmaster não será capaz de criar novos utilizadores para a rede. Na realidade, isto também não é possível para um utilizador com direitos plenos de Administrador, a menos que o adicione como Super Admin com capacidade para administrar toda a rede."
+
+#: includes/module-users.php:63
+msgid "Learn More about WordPress Multisite"
+msgstr "Saiba mais sobre o Wordpress Multisite"
+
+#: includes/module-woocommerce.php:24
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/module-woocommerce.php:29
+msgid "WooCommerce Capabilities"
+msgstr "Capacidades do WooCommerce"
+
+#: includes/module-woocommerce.php:33
+msgid "Manage WooCommerce Settings"
+msgstr "Gerir definições do WooCommerce"
+
+#: includes/module-woocommerce.php:34
+msgid "Edit & View Products"
+msgstr "Editar & Ver Produtos"
+
+#: includes/module-woocommerce.php:35
+msgid "Edit & View Coupons"
+msgstr "Editar & Ver Cupons"
+
+#: includes/module-woocommerce.php:36
+msgid "Edit & View Orders"
+msgstr "Editar & Ver Encomendas"
+
+#: includes/module-woocommerce.php:37
+msgid "View Reports"
+msgstr "Ver Relatórios"
+
+#: includes/module-wpai.php:22
+msgid "WP All Import"
+msgstr "WP All Import"
+
+#: includes/module-wpai.php:27
+msgid "WP All Import Capabilities"
+msgstr "Recursos WP All Import"
+
+#: includes/module-wpai.php:31
+msgid "Use WP All Import Settings Menu"
+msgstr "Use Menu de Definições de WP All Import"
+
+#: includes/module-yoast.php:24
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: includes/module-yoast.php:29
+msgid "Yoast SEO Capabilities"
+msgstr "Capacidades Yoast SEO"
+
+#: includes/module-yoast.php:33
+msgid "Edit SEO values on individual posts/pages"
+msgstr "Editar valores SEO em páginas/artigos individuais"
+
+#: includes/module-yoast.php:34
+msgid "Use Yoast Settings Menu"
+msgstr "Usar o menu de opções Yoast"
+
+#: includes/pro.php:24
+msgid "Settings"
+msgstr "Definições"
+
+#: includes/pro.php:186
+msgid "Section via hook"
+msgstr "Seção via gancho"
+
+#: includes/pro.php:187
+msgid "This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options."
+msgstr "Esta é a secção criada ao adicionar um filtro para a matriz das secções. Pode ser udada por temas filho para adicionar/remover secções das opções."
+
+#: includes/pro.php:265
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr "Customizar &#8220;%s&#8221;"
+
+#: includes/pro.php:272 includes/pro.php:275
+msgid "Current theme preview"
+msgstr "Pre-visualização de tema atual"
+
+#: includes/pro.php:282
+#, php-format
+msgid "By %s"
+msgstr "Por %s"
+
+#: includes/pro.php:283
+#, php-format
+msgid "Version %s"
+msgstr "Versão %s"
+
+#: includes/pro.php:284
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/pro.php:289
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr "Este <a href=\"%1$s\">tema filho</a> requer o tema pai, %2$s."
+
+#: includes/pro.php:322
+msgid "TablePress"
+msgstr "TablePress"
+
+#: includes/pro.php:327
+msgid "TablePress Capabilities"
+msgstr "Capacidades TablePress"
+
+#: includes/pro.php:331
+msgid "List Tables"
+msgstr "Listar tabelas"
+
+#: includes/pro.php:332
+msgid "Add New Tables"
+msgstr "Adicionar novas tabelas"
+
+#: includes/pro.php:333
+msgid "Edit Existing Tables"
+msgstr "Editar tabelas existentes"
+
+#: includes/pro.php:334
+msgid "Import Tables"
+msgstr "Importar tabelas"
+
+#: includes/pro.php:335
+msgid "Export Tables"
+msgstr "Exportar tabelas"
+
+#: includes/pro.php:336
+msgid "Access TablePress About Screen"
+msgstr "Aceder ao ecrã sobre do TablePress"
+
+#: includes/pro.php:337
+msgid "Access TablePress Options Screen"
+msgstr "Aceder ao ecrã de opções do TablePress"
+
+#: includes/pro.php:395
+msgid "Simple Client Dashboard Settings"
+msgstr "Opções do Simple Client Dashboard"
+
+#: includes/pro.php:466
+msgid "Visit us on GitHub"
+msgstr "Visite-nos no GitHub"
+
+#: includes/pro.php:472
+msgid "Follow us on Twitter"
+msgstr "Siga-nos no Twitter"
+
+#: includes/pro.php:477
+msgid "Customize the capabilities for your Simple Client Dashboard"
+msgstr "Customizar as capacidades para o seu Simple Client Dashboard"
+
+#: includes/pro.php:480
+msgid "Plugin Documentation"
+msgstr "Documentação do plugin"
+
+#: includes/themes/avada-theme-module.php:38
+msgid "Avada Theme Compatibility"
+msgstr "Compatibilidade com Tema Avada"
+
+#: includes/themes/avada-theme-module.php:42 includes/themes/avian-theme-module.php:41 includes/themes/cardinal-theme-module.php:42 includes/themes/divi-theme-module.php:44 includes/themes/ken-theme-module.php:41 includes/themes/total-theme-module.php:41
+msgid "Access Theme Options panel"
+msgstr "Aceder ao painel de opções do tema"
+
+#: includes/themes/avian-theme-module.php:37
+msgid "Avian Theme Compatibility"
+msgstr "Compatibilidade com Tema Avian"
+
+#: includes/themes/cardinal-theme-module.php:38
+msgid "Cardinal Theme Compatibility"
+msgstr "Compatibilidade do tema Cardinal"
+
+#: includes/themes/divi-theme-module.php:40
+msgid "Divi Theme Compatibility"
+msgstr "Compatibilidade com tema Divi"
+
+#: includes/themes/divi-theme-module.php:68
+msgid "Options"
+msgstr "Opções"
+
+#: includes/themes/divi-theme-module.php:68
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: includes/themes/ken-theme-module.php:37
+msgid "Ken Theme Compatibility"
+msgstr "Compatibilidade com Tema Ken"
+
+#: includes/themes/total-theme-module.php:37
+msgid "Total Theme Compatibility"
+msgstr "Compatibilidade com Total Theme"
+
+#: includes/updater.php:37
+msgid "Licensing & Updates"
+msgstr "Licensiamento & atualizações"
+
+#: includes/updater.php:42
+msgid "License Key"
+msgstr "Chave de licença"
+
+#: includes/updater.php:43
+msgid "Enables access to updates"
+msgstr "Permitir acesso para atualizações"
